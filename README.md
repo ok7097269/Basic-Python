@@ -1,2 +1,2 @@
 # Various Python Practices
-## OpenCV from 
+## OpenCV from '나도코딩'
